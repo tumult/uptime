@@ -4,19 +4,19 @@
     "url": "https://tumult.com",
     "icon": "https://icons.duckduckgo.com/ip3/tumult.com.ico",
     "slug": "tumult-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 217,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 219,
+    "timeDay": 197,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 9
     }
   },
   {
