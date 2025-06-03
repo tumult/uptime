@@ -60,7 +60,7 @@
     "url": "https://blog.tumult.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.tumult.com.ico",
     "slug": "tumult-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 295,
     "timeMonth": 319,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-03": 0
+    }
   }
 ]
