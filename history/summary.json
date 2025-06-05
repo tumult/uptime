@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 253,
-    "timeDay": 271,
-    "timeWeek": 242,
+    "time": 254,
+    "timeDay": 311,
+    "timeWeek": 258,
     "timeMonth": 262,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {
       "2025-04-28": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 459,
-    "timeDay": 471,
-    "timeWeek": 529,
-    "timeMonth": 443,
-    "timeYear": 459,
+    "time": 456,
+    "timeDay": 307,
+    "timeWeek": 489,
+    "timeMonth": 442,
+    "timeYear": 456,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 199,
-    "timeWeek": 324,
-    "timeMonth": 267,
-    "timeYear": 287,
+    "time": 286,
+    "timeDay": 226,
+    "timeWeek": 287,
+    "timeMonth": 270,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -62,15 +62,15 @@
     "slug": "tumult-blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 323,
-    "timeDay": 362,
-    "timeWeek": 300,
-    "timeMonth": 320,
-    "timeYear": 323,
+    "time": 322,
+    "timeDay": 288,
+    "timeWeek": 315,
+    "timeMonth": 319,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-06-03": 12
     }
